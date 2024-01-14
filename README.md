@@ -41,9 +41,9 @@ Follow these steps to use the notebook:
 
 4. Follow the instructions within the notebook to execute each cell and understand the process of training a diabetes classification model.
 
-## Dataset
+Dataset
 
-The diabetes dataset used in this project is sourced from [insert_dataset_source_here]. Please refer to the dataset source for additional information.
+The diabetes dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set?resource=download). Please refer to the dataset source for additional information.
 
 ## Dependencies
 
